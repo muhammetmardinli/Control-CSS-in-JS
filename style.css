@@ -1,0 +1,14 @@
+#myDiv {
+    margin: 20px;
+    background-color: #ccc;
+    filter: blur(0);
+    position: relative;
+    align-content: center;
+}
+
+#myPhoto {
+    margin: 20px;
+    
+    height: 8rem;
+    
+}
